@@ -1,6 +1,3 @@
-# By Fasad with love❤
-
-
 # Description
 This project is a Python script for automatically moving the mouse in games using the PyAutoGUI and Pynput libraries.
 
@@ -54,3 +51,5 @@ if key == keyboard.Key.enter:
 ```
 ## Adjusting Mouse Parameters
 ### In the `main.py` file, you can configure mouse movement speed and other parameters by modifying variables in the move_mouse_slowly function.
+
+# By Fasad with love❤
