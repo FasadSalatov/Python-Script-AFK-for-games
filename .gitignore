@@ -6,6 +6,25 @@ __pycache__/
 # C extensions
 *.so
 
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore the 'modules' directory if you don't want to include it in the repository
+modules/
+
+# Ignore the '__pycache__' directory created by Python
+__pycache__/
+
+# Ignore any '*.pyc' files created by Python
+*.pyc
+
+
 # Distribution / packaging
 .Python
 build/
